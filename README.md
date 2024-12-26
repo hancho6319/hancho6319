@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HARUNA AUWALU</h1>
-<h3 align="center">I'm Electrical & Electronics Engineer (electronics option), Also Software Engineer (specialized On Backend)</h3>
+<h3 align="center">I'm Electrical & Electronics Engineer (electronics option), Also Software Engineer (specialized On Front-end)</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif?cid=6c09b952c7h8ixebx6z5n42i3zhuuhignegp173kyi1acr29&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
